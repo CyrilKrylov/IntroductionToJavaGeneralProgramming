@@ -6,7 +6,7 @@ import loops.tasks.*;
 public class BSCDApp {
 
     public static void main(String[] args) {
-        /*out(Task1.getZ(6, 2, 5));
+        out(Task1.getZ(6, 2, 5));
         out(Task2.getValueOfExpressionWithRoot(8, 21, 1));
         out(Task3.getValueOfTrigonometricExpression(30,60));
         out(Task4.getReversedDouble(111.222));
@@ -24,7 +24,7 @@ public class BSCDApp {
         out(Task5L.getSum(0.1));
         out(Task6L.getCorrespondingInteger('~'));
         Task7L.getDeviders(5,100);
-        Task8L.showEqualDigits(12345,33456);*/
+        Task8L.showEqualDigits(12345,33456);
     }
 
     private static void out(Number number) {
